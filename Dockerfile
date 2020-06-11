@@ -1,5 +1,6 @@
 FROM ubuntu:latest
 USER root
+SHELL ["bash","-c"]
 RUN  apt update ;\
      apt install curl gnupg -y ;\
      source /etc/os-release ;\
