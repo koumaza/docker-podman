@@ -1,5 +1,5 @@
 # Podman in docker
-![Docker Automated build](https://img.shields.io/docker/automated/koumaza/podman?style=for-the-badge) ![Docker Build Status](https://img.shields.io/docker/build/koumaza/podman?style=for-the-badge) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/koumaza/podman?style=for-the-badge) ![Docker Stars](https://img.shields.io/docker/stars/koumaza/podman?style=for-the-badge)
+![Docker Automated build](https://img.shields.io/docker/automated/koumaza/podman?style=for-the-badge) ![Docker Pulls](https://img.shields.io/docker/pulls/koumaza/podman?style=for-the-badge) ![Docker Build Status](https://img.shields.io/docker/build/koumaza/podman?style=for-the-badge) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/koumaza/podman?style=for-the-badge) ![Docker Stars](https://img.shields.io/docker/stars/koumaza/podman?style=for-the-badge)
 ### link
 Docker hub:  [koumaza/podman](https://hub.docker.com/r/koumaza/podman)<br>
 Source code: [github](https://github.com/koumaza/docker-podman)
